@@ -1,0 +1,48 @@
+
+u
+java:S2095›"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(îŽ¬ôýÿÿÿÿH¶"RBLOCKERZBUG
+l	java:S110,"<This class has 7 parents which is greater than 5 authorized.(ž“µ­úÿÿÿÿH·"RMAJORZ
+CODE_SMELL
+µ
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìƒ’ÊûÿÿÿÿH¸"RCRITICALZ
+CODE_SMELL
+^
+java:S1948S"/Make "startRulelist" transient or serializable.(£Ü©©H¹"RCRITICALZ
+CODE_SMELL
+c
+java:S1135ø"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿHº"RINFOZ
+CODE_SMELL
+X
+java:S1168ü"+Return an empty collection instead of null.(¥¹ïH»"RMAJORZ
+CODE_SMELL
+r
+java:S2147º"ECombine this catch with the one at line 311, which has the same body.(”ý¾H¼"RMINORZ
+CODE_SMELL
+j	java:S106–"9Replace this use of System.out or System.err by a logger.(âÂóÖþÿÿÿÿH¾"RMAJORZ
+CODE_SMELL
+e	java:S106˜"9Replace this use of System.out or System.err by a logger.(÷¨Õ†H¿"RMAJORZ
+CODE_SMELL
+e	java:S106³"9Replace this use of System.out or System.err by a logger.(÷¨Õ†HÀ"RMAJORZ
+CODE_SMELL
+c
+java:S1135¸"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿHÁ"RINFOZ
+CODE_SMELL
+c
+java:S1135»"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿHÂ"RINFOZ
+CODE_SMELL
+f
+java:S1854Í"9Remove this useless assignment to local variable "value".(Á±”®HÃ"RMAJORZ
+CODE_SMELL
+M
+java:S2129Í" Remove this "String" constructor(Á±”®HÄ"RMAJORZ
+CODE_SMELL
+j	java:S106à"9Replace this use of System.out or System.err by a logger.(âÂóÖþÿÿÿÿHÅ"RMAJORZ
+CODE_SMELL
+e	java:S106æ"9Replace this use of System.out or System.err by a logger.(ø¹—ŽHÆ"RMAJORZ
+CODE_SMELL
+d	java:S106è"9Replace this use of System.out or System.err by a logger.(˜¯‹hHÇ"RMAJORZ
+CODE_SMELL
+e	java:S106ê"9Replace this use of System.out or System.err by a logger.(æÊÆåHÈ"RMAJORZ
+CODE_SMELL
+j	java:S106ö"9Replace this use of System.out or System.err by a logger.(™ŠîøÿÿÿÿHÉ"RMAJORZ
+CODE_SMELL

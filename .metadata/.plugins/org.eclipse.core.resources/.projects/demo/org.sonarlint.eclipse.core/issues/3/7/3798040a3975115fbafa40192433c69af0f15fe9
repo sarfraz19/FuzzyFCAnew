@@ -1,0 +1,82 @@
+
+g	java:S125R"<This block of commented-out lines of code should be removed.(Ñ´Ç•H®RMAJORZ
+CODE_SMELL
+‡
+java:S3008F"[Rename this field "PREFERENCES_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÉÆ½HŸRMINORZ
+CODE_SMELL
+o
+java:S2479¸":Remove the non-escaped \u0009 character from this literal.(™ôÏğûÿÿÿÿH¼RCRITICALZ
+CODE_SMELL
+Z
+java:S1444E".Make this "public static BASE_DIR" field final(ÃÀÓ–H™RMINORZ
+CODE_SMELL
+r
+java:S2147–"ECombine this catch with the one at line 148, which has the same body.(ï­£ÄHµRMINORZ
+CODE_SMELL
+ˆ
+java:S1104F"\Make PREFERENCES_FILE a static final constant or non-public and provide accessors if needed.(‡ÉÆ½HRMINORZ
+CODE_SMELL
+˜
+java:S1130d"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ö¶ØÖH±RMINORZ
+CODE_SMELL
+h	java:S125–"<This block of commented-out lines of code should be removed.(—é¦úHÍRMAJORZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çƒë¥H¦RCRITICALZ
+CODE_SMELL
+i
+java:S11978"8Move the array designator from the variable to the type.(™ú´»úÿÿÿÿH¬RMINORZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÛ®ßH¢RCRITICALZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†„õ¯H©RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä”²ªøÿÿÿÿH¨RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´öÃ«úÿÿÿÿHªRCRITICALZ
+CODE_SMELL
+g	java:S125…"<This block of commented-out lines of code should be removed.(ûºìH¸RMAJORZ
+CODE_SMELL
+h	java:S125‰"<This block of commented-out lines of code should be removed.(‹¦Å§H¹RMAJORZ
+CODE_SMELL
+v
+java:S2095¹"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(üÁŒH˜RBLOCKERZBUG
+b
+java:S1444F"6Make this "public static PREFERENCES_FILE" field final(‡ÉÆ½HšRMINORZ
+CODE_SMELL
+o
+java:S1068P"CRemove this unused "DEFAULT_FUZZY_FCA_OUTPUT_FORMAT" private field.(û†â³HåRMAJORZ
+CODE_SMELL
+l	java:S125I"<This block of commented-out lines of code should be removed.(³Ù†ÌşÿÿÿÿH­RMAJORZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÕÁ±²H¡RCRITICALZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù²ö¶H£RCRITICALZ
+CODE_SMELL
+h	java:S125È"<This block of commented-out lines of code should be removed.(µ£ıH½RMAJORZ
+CODE_SMELL
+h	java:S125ß"<This block of commented-out lines of code should be removed.(Ç¾ƒŸHÅRMAJORZ
+CODE_SMELL
+
+java:S3008E"SRename this field "BASE_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÀÓ–HRMINORZ
+CODE_SMELL
+h	java:S125¡"<This block of commented-out lines of code should be removed.(ÕïİÂHÕRMAJORZ
+CODE_SMELL
+€
+java:S1104E"TMake BASE_DIR a static final constant or non-public and provide accessors if needed.(ÃÀÓ–HœRMINORZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘ÕÊ×ùÿÿÿÿH RCRITICALZ
+CODE_SMELL
+h	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ø®…°H·RMAJORZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬âÇŸøÿÿÿÿH¤RCRITICALZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ã¶Á€H§RCRITICALZ
+CODE_SMELL
+q	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(ö¶ØÖH›RMAJORZ
+CODE_SMELL
+`
+java:S2168f"9Remove this dangerous instance of double-checked locking.(×é¹ºH²RBLOCKERZBUG
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯à“ÜüÿÿÿÿH¥RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûŞäüÿÿÿÿH«RCRITICALZ
+CODE_SMELL

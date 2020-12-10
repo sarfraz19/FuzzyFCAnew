@@ -1,0 +1,10 @@
+package com.example.demo.model;
+
+import java.awt.List;
+
+public class ObjectAttributeSingleSet {
+
+	private String objects;
+	
+	private List attribute;
+}

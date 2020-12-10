@@ -1,0 +1,10 @@
+package com.example.demo.model;
+
+import com.sun.tools.javac.util.List;
+
+public class ObjectAttributeSingleSet {
+
+	private String objects;
+	
+	private List<String> attribute;
+}

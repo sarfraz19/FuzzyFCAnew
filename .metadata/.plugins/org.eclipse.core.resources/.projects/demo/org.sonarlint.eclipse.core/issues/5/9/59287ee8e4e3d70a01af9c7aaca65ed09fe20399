@@ -1,0 +1,37 @@
+
+`
+java:S3740w"/Provide the parametrized type for this generic.(šŠ¹úÿÿÿÿHî RMAJORZ
+CODE_SMELL
+a
+java:S3740—"/Provide the parametrized type for this generic.(šŠ¹úÿÿÿÿHï RMAJORZ
+CODE_SMELL
+a
+java:S3740¹"/Provide the parametrized type for this generic.(šŠ¹úÿÿÿÿHğ RMAJORZ
+CODE_SMELL
+\
+java:S3740ì"/Provide the parametrized type for this generic.(ÌÆ°£Hñ RMAJORZ
+CODE_SMELL
+N
+java:S1643ï"Use a StringBuilder instead.(ÑïûûÿÿÿÿHò RMINORZ
+CODE_SMELL
+I
+java:S1643ñ"Use a StringBuilder instead.(Íà£­Hó RMINORZ
+CODE_SMELL
+]
+java:S1135|"2Complete the task associated to this TODO comment.(Ş˜Ç›Hô RINFOZ
+CODE_SMELL
+^
+java:S1135¬"2Complete the task associated to this TODO comment.(Ş˜Ç›Hõ RINFOZ
+CODE_SMELL
+^
+java:S1135¾"2Complete the task associated to this TODO comment.(Ş˜Ç›Hö RINFOZ
+CODE_SMELL
+^
+java:S1135Ñ"2Complete the task associated to this TODO comment.(Ş˜Ç›H÷ RINFOZ
+CODE_SMELL
+‚
+java:S2975å"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞHø RBLOCKERZ
+CODE_SMELL
+u
+java:S1182å"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞHù RMINORZ
+CODE_SMELL

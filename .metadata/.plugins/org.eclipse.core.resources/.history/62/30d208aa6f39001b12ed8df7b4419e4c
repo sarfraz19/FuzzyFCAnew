@@ -1,0 +1,33 @@
+package com.example.demo.model;
+
+import java.util.List;
+
+public class ObjectAttributeSingleSet {
+
+	private String objects;
+	
+	private List<String> attribute;
+
+	public String getObjects() {
+		return objects;
+	}
+
+	public void setObjects(String objects) {
+		this.objects = objects;
+	}
+
+	public List<String> getAttribute() {
+		return attribute;
+	}
+
+	public void setAttribute(List<String> attribute) {
+		this.attribute = attribute;
+	}
+
+	@Override
+	public String toString() {
+		return "ObjectAttributeSingleSet [objects=" + objects + ", attribute=" + attribute + "]";
+	}
+	
+	
+}

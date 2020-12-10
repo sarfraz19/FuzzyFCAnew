@@ -1,0 +1,12 @@
+package com.example.demo.service;
+
+import com.example.demo.model.ObjectAttributeArray;
+
+public class FormalConceptAnalysis {
+
+	public void fca(ObjectAttributeArray vals) {
+		
+		ObjectAttributeArray objectAttributeArray = new ObjectAttributeArray();
+		
+	}
+}

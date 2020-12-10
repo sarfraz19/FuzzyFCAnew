@@ -1,0 +1,220 @@
+
+m	java:S125—"<This block of commented-out lines of code should be removed.(Á”éáúÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+p
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(º¦çÜøÿÿÿÿHãRMINORZ
+CODE_SMELL
+a
+java:S3740ç"/Provide the parametrized type for this generic.(—•‰ úÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+a
+java:S3740ÿ"/Provide the parametrized type for this generic.(³ˆŒªúÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+[
+java:S3740À"/Provide the parametrized type for this generic.(¿ä¡nHÆRMAJORZ
+CODE_SMELL
+i	java:S106G"9Replace this use of System.out or System.err by a logger.(Ò¿½ŸùÿÿÿÿHèRMAJORZ
+CODE_SMELL
+\
+java:S3740û"/Provide the parametrized type for this generic.(…šÎÖHÁRMAJORZ
+CODE_SMELL
+Z
+java:S1905µ"(Remove this unnecessary cast to "Entry".(¨ºŠøÿÿÿÿÿHßRMINORZ
+CODE_SMELL
+e	java:S106ß"9Replace this use of System.out or System.err by a logger.(³ë…¨HâRMAJORZ
+CODE_SMELL
+t
+java:S1126í"BReplace this if-then-else statement by a single method invocation.(¼ ¸×ûÿÿÿÿHÙRMINORZ
+CODE_SMELL
+p
+java:S1155š">Use isEmpty() to check whether the collection is empty or not.(´É¶çúÿÿÿÿHáRMINORZ
+CODE_SMELL
+Z
+java:S1905œ"(Remove this unnecessary cast to "Entry".(§Ì»¬şÿÿÿÿHñRMINORZ
+CODE_SMELL
+\
+java:S3740‰"/Provide the parametrized type for this generic.(…šÎÖHÍRMAJORZ
+CODE_SMELL
+a
+java:S3740…"/Provide the parametrized type for this generic.(ŸÊä°øÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+k	java:S899w"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿHïRMINORZBUG
+\
+java:S1172›"/Remove this unused method parameter "relation".(îçê­HõRMAJORZ
+CODE_SMELL
+\
+java:S3740Ã"/Provide the parametrized type for this generic.(şÁ²¦HÇRMAJORZ
+CODE_SMELL
+a
+java:S3740±"/Provide the parametrized type for this generic.(„×±¹ÿÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+a
+java:S3740‹"/Provide the parametrized type for this generic.(„×±¹ÿÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+ˆ
+java:S3776™"SRefactor this method to reduce its Cognitive Complexity from 252 to the 15 allowed.(ñÃ¾óøÿÿÿÿHøRCRITICALZ
+CODE_SMELL
+d	java:S106^"9Replace this use of System.out or System.err by a logger.(ÇŞËHëRMAJORZ
+CODE_SMELL
+e	java:S106ê"9Replace this use of System.out or System.err by a logger.(³ë…¨HØRMAJORZ
+CODE_SMELL
+a
+java:S3740î"/Provide the parametrized type for this generic.(·©¯ÜşÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+\
+java:S3740Û"/Provide the parametrized type for this generic.(…šÎÖH¿RMAJORZ
+CODE_SMELL
+a
+java:S3740é"/Provide the parametrized type for this generic.(´ÜÿÀùÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+a
+java:S3740¢"/Provide the parametrized type for this generic.(„×±¹ÿÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+e	java:S106­"9Replace this use of System.out or System.err by a logger.(™ô©‚HôRMAJORZ
+CODE_SMELL
+d	java:S106_"9Replace this use of System.out or System.err by a logger.(ıóˆ…HìRMAJORZ
+CODE_SMELL
+l	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿHñRMINORZBUG
+a
+java:S3740ö"/Provide the parametrized type for this generic.(—•‰ úÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+e	java:S106•"9Replace this use of System.out or System.err by a logger.(×¬HôRMAJORZ
+CODE_SMELL
+e	java:S106€"9Replace this use of System.out or System.err by a logger.(³ë…¨HÚRMAJORZ
+CODE_SMELL
+a
+java:S3740"/Provide the parametrized type for this generic.(³ˆŒªúÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+a
+java:S3740ç"/Provide the parametrized type for this generic.(ÂÒëçüÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+a
+java:S1066É"/Merge this if statement with the enclosing one.(‚‡“÷øÿÿÿÿH×RMAJORZ
+CODE_SMELL
+N
+java:S1643Ó"Use a StringBuilder instead.(×Æ—¹úÿÿÿÿHÜRMINORZ
+CODE_SMELL
+
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¤÷”zHãRCRITICALZ
+CODE_SMELL
+i	java:S106y"9Replace this use of System.out or System.err by a logger.(Ò¿½ŸùÿÿÿÿHğRMAJORZ
+CODE_SMELL
+w
+java:S1854 "ERemove this useless assignment to local variable "conceptSimilarity".(İŒ²›ıÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+\
+java:S3740ğ"/Provide the parametrized type for this generic.(…šÎÖHÌRMAJORZ
+CODE_SMELL
+i	java:S106r"9Replace this use of System.out or System.err by a logger.(Ò¿½ŸùÿÿÿÿHîRMAJORZ
+CODE_SMELL
+m	java:S125»"<This block of commented-out lines of code should be removed.(±Õé€øÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+\
+java:S3740Ñ"/Provide the parametrized type for this generic.(şÁ²¦H½RMAJORZ
+CODE_SMELL
+e	java:S106İ"9Replace this use of System.out or System.err by a logger.(™ô©‚HáRMAJORZ
+CODE_SMELL
+d	java:S106W"9Replace this use of System.out or System.err by a logger.(­Ô¼ƒHêRMAJORZ
+CODE_SMELL
+d	java:S106a"9Replace this use of System.out or System.err by a logger.(üÊ±HíRMAJORZ
+CODE_SMELL
+\
+java:S3740Ä"/Provide the parametrized type for this generic.(‚ÛÚŠHÈRMAJORZ
+CODE_SMELL
+v	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(šÉ¶ñúÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+d	java:S106S"9Replace this use of System.out or System.err by a logger.(­Ô¼ƒHéRMAJORZ
+CODE_SMELL
+p
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(õÃ¹åûÿÿÿÿHäRMINORZ
+CODE_SMELL
+p
+java:S1155Ø">Use isEmpty() to check whether the collection is empty or not.(Ç®ÅÖûÿÿÿÿHŞRMINORZ
+CODE_SMELL
+Y
+java:S1905¹"'Remove this unnecessary cast to "Edge".(Æ½µœûÿÿÿÿHÔRMINORZ
+CODE_SMELL
+\
+java:S5411Ÿ"*Use the primitive boolean expression here.(ã®¥ÇıÿÿÿÿHçRMINORZ
+CODE_SMELL
+\
+java:S1905¾"*Remove this unnecessary cast to "Concept".(ğ¡İ¼üÿÿÿÿHÖRMINORZ
+CODE_SMELL
+U
+java:S1905£"(Remove this unnecessary cast to "Entry".(¤¤ùˆHİRMINORZ
+CODE_SMELL
+Z
+java:S1905¨"(Remove this unnecessary cast to "Entry".(¨ºŠøÿÿÿÿÿHŞRMINORZ
+CODE_SMELL
+Y
+java:S1264µ",Replace this "for" loop with a "while" loop.(´ÿÁ’HÓRMINORZ
+CODE_SMELL
+\
+java:S1905À"*Remove this unnecessary cast to "Concept".(ıûÈşÿÿÿÿH×RMINORZ
+CODE_SMELL
+c
+java:S1135‘"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHóRINFOZ
+CODE_SMELL
+a
+java:S3740ä"/Provide the parametrized type for this generic.(—•‰ úÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+e	java:S106¯"9Replace this use of System.out or System.err by a logger.(Ú²àHõRMAJORZ
+CODE_SMELL
+a
+java:S3740‘"/Provide the parametrized type for this generic.(ÑÿÒìıÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+\
+java:S3740é"/Provide the parametrized type for this generic.(şÁ²¦HËRMAJORZ
+CODE_SMELL
+p
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(£åĞğüÿÿÿÿHàRMINORZ
+CODE_SMELL
+p
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(º¦çÜøÿÿÿÿHåRMINORZ
+CODE_SMELL
+p
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(ëû´¾ùÿÿÿÿHßRMINORZ
+CODE_SMELL
+\
+java:S1066í"/Merge this if statement with the enclosing one.(Àúœ„HÙRMAJORZ
+CODE_SMELL
+a
+java:S3740Î"/Provide the parametrized type for this generic.(î¾óÃùÿÿÿÿH¼RMAJORZ
+CODE_SMELL
+a
+java:S3740Õ"/Provide the parametrized type for this generic.(—•‰ úÿÿÿÿH¾RMAJORZ
+CODE_SMELL
+a
+java:S3740å"/Provide the parametrized type for this generic.(ß–ÍÁÿÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+t
+java:S1126Ÿ"BReplace this if-then-else statement by a single method invocation.(†’Î€şÿÿÿÿHÛRMINORZ
+CODE_SMELL
+Z
+java:S1905Ã"(Remove this unnecessary cast to "Entry".(ÛÚğúÿÿÿÿHàRMINORZ
+CODE_SMELL
+W
+java:S5411“"*Use the primitive boolean expression here.(Ü²„…HæRMINORZ
+CODE_SMELL
+p
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(õÃ¹åûÿÿÿÿHâRMINORZ
+CODE_SMELL
+V
+java:S1125“")Remove the literal "false" boolean value.(Ü²„…HğRMINORZ
+CODE_SMELL
+[
+java:S1125Ÿ")Remove the literal "false" boolean value.(ã®¥ÇıÿÿÿÿHòRMINORZ
+CODE_SMELL
+j	java:S106¬"9Replace this use of System.out or System.err by a logger.(·ÿäÿÿÿÿÿHóRMAJORZ
+CODE_SMELL
+a
+java:S3740…"/Provide the parametrized type for this generic.(ÑÿÒìıÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+N
+java:S1643Ù"Use a StringBuilder instead.(Ô¦¼ÿÿÿÿÿHİRMINORZ
+CODE_SMELL
+a
+java:S3740š"/Provide the parametrized type for this generic.(„×±¹ÿÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+e	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(®×ìHòRMAJORZ
+CODE_SMELL

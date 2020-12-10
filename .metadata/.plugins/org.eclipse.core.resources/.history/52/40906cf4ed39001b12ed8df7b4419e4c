@@ -1,0 +1,56 @@
+package com.example.demo.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.example.demo.model.ObjectAttributeArray;
+import com.example.demo.model.ObjectAttributeSingleSet;
+
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+@Service
+@RequiredArgsConstructor
+public class FormalConceptAnalysis {
+
+	public void fca(ObjectAttributeArray vals) {
+		
+		int arraySize = vals.getObjectAttributeSingleSet().size();
+		
+		for (int i=0; i < arraySize; i++) {
+			for (int j=i+1; j < arraySize; j++) {
+				if (vals.getObjectAttributeSingleSet().get(i).getAttribute().size() > vals.getObjectAttributeSingleSet().get(j).getAttribute().size()) 
+                {
+
+					ObjectAttributeSingleSet objectAttributeSingleSet = new ObjectAttributeSingleSet();
+					
+					objectAttributeSingleSet.setAttribute(vals.getObjectAttributeSingleSet().get(j).getAttribute());
+					objectAttributeSingleSet.setObjects(vals.getObjectAttributeSingleSet().get(j).getObjects());
+
+                    vals.getObjectAttributeSingleSet().remove(j);
+                    vals.getObjectAttributeSingleSet().add(j, vals.getObjectAttributeSingleSet().get(i));
+
+                    vals.getObjectAttributeSingleSet().remove(i);
+                    vals.getObjectAttributeSingleSet().add(i, objectAttributeSingleSet);
+                    
+                }
+			}
+		}
+		
+		for (int i=0; i < arraySize; i++) {
+			for (int j=0; j < i; j++) {
+				for (String attributeI : vals.getObjectAttributeSingleSet().get(i).getAttribute()) {
+					for(String attributeJ : vals.getObjectAttributeSingleSet().get(j).getAttribute()) {
+						if (attributeI.equalsIgnoreCase(attributeJ)) {
+							vals.getObjectAttributeSingleSet().get(j).getResult().add(attributeI);
+						}
+					}
+				}
+			}
+		}
+		
+		System.out.println(vals.toString());
+	}
+}

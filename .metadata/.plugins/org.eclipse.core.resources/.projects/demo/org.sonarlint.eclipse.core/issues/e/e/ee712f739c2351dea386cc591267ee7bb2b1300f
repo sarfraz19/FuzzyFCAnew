@@ -1,0 +1,165 @@
+
+|
+java:S3973‹"GUse indentation to denote the code conditionally executed by this "if".(ôâá£ÿÿÿÿÿHÊ"RCRITICALZ
+CODE_SMELL
+|
+java:S3973í"GUse indentation to denote the code conditionally executed by this "if".(Éì¿ÀùÿÿÿÿHÌ"RCRITICALZ
+CODE_SMELL
+\
+java:S1066ç"/Merge this if statement with the enclosing one.(Ò°ƒßHÎ"RMAJORZ
+CODE_SMELL
+\
+java:S1066š"/Merge this if statement with the enclosing one.(œ÷ÅHĞ"RMAJORZ
+CODE_SMELL
+\
+java:S1066›"/Merge this if statement with the enclosing one.(ÍãÂÎHÒ"RMAJORZ
+CODE_SMELL
+[
+java:S1066º"/Merge this if statement with the enclosing one.(¯¸ŸqHÔ"RMAJORZ
+CODE_SMELL
+\
+java:S1066Õ"/Merge this if statement with the enclosing one.(Ò¬«HÖ"RMAJORZ
+CODE_SMELL
+[
+java:S1066›"/Merge this if statement with the enclosing one.(¯¸ŸqHØ"RMAJORZ
+CODE_SMELL
+\
+java:S1066¾"/Merge this if statement with the enclosing one.(Ò¬«HÚ"RMAJORZ
+CODE_SMELL
+a
+java:S1066í"/Merge this if statement with the enclosing one.(Éì¿ÀùÿÿÿÿHÜ"RMAJORZ
+CODE_SMELL
+a
+java:S1066‚"/Merge this if statement with the enclosing one.(½˜Î¿ıÿÿÿÿHŞ"RMAJORZ
+CODE_SMELL
+l	java:S110!"<This class has 7 parents which is greater than 5 authorized.(¸û”–úÿÿÿÿHà"RMAJORZ
+CODE_SMELL
+L
+java:S2131Ê"Use "Integer.toString" instead.(ö¾ÕàHá"RMAJORZ
+CODE_SMELL
+Q
+java:S2131Ë"Use "Integer.toString" instead.(Ê±³ÌûÿÿÿÿHâ"RMAJORZ
+CODE_SMELL
+L
+java:S2131é"Use "Integer.toString" instead.(öÈ­âHã"RMAJORZ
+CODE_SMELL
+Q
+java:S2131Ÿ"Use "Integer.toString" instead.(Ê±³ÌûÿÿÿÿHä"RMAJORZ
+CODE_SMELL
+L
+java:S2131Â"Use "Integer.toString" instead.(öÈ­âHå"RMAJORZ
+CODE_SMELL
+‹	java:S116+"`Rename this field "MAX_NUM_FREQUENT_SETS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÀŒœHæ"RMINORZ
+CODE_SMELL
+c
+java:S1948'"/Make "startTtreeRef" transient or serializable.(òüíêùÿÿÿÿHç"RCRITICALZ
+CODE_SMELL
+M
+java:S1170+"!Make this final field static too.(éÀŒœHè"RMINORZ
+CODE_SMELL
+d	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÙÃ„ªHé"RMAJORZ
+CODE_SMELL
+d	java:S106S"9Replace this use of System.out or System.err by a logger.(“ÆõHê"RMAJORZ
+CODE_SMELL
+j	java:S106£"9Replace this use of System.out or System.err by a logger.(„Û¡ÅşÿÿÿÿHë"RMAJORZ
+CODE_SMELL
+e	java:S106°"9Replace this use of System.out or System.err by a logger.(Î±ÒéHì"RMAJORZ
+CODE_SMELL
+‚
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´âHí"RCRITICALZ
+CODE_SMELL
+h	java:S125Ó"<This block of commented-out lines of code should be removed.(§õ® Hõ"RMAJORZ
+CODE_SMELL
+‡
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¶êè¨øÿÿÿÿHö"RCRITICALZ
+CODE_SMELL
+h	java:S125…"<This block of commented-out lines of code should be removed.(§õ® H€#RMAJORZ
+CODE_SMELL
+j
+java:S1854æ"8Remove this useless assignment to local variable "size".(²§“ÊÿÿÿÿÿH#RMAJORZ
+CODE_SMELL
+j	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÍÜ“öÿÿÿÿÿH‚#RMAJORZ
+CODE_SMELL
+V
+java:S1905‘")Remove this unnecessary cast to "double".(õôô™Hƒ#RMINORZ
+CODE_SMELL
+e	java:S106È"9Replace this use of System.out or System.err by a logger.(—•†ŒH„#RMAJORZ
+CODE_SMELL
+e	java:S106É"9Replace this use of System.out or System.err by a logger.(Ì”‹ÕH…#RMAJORZ
+CODE_SMELL
+«
+java:S1158Ê"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(ö¾ÕàH†#RMINORZ
+CODE_SMELL
+N
+java:S2129Ê"!Remove this "Integer" constructor(ö¾ÕàH‡#RMAJORZ
+CODE_SMELL
+\
+java:S1874Ê"/Remove this use of "Integer"; it is deprecated.(ö¾ÕàHˆ#RMINORZ
+CODE_SMELL
+°
+java:S1158Ë"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Ê±³ÌûÿÿÿÿH‰#RMINORZ
+CODE_SMELL
+S
+java:S2129Ë"!Remove this "Integer" constructor(Ê±³ÌûÿÿÿÿHŠ#RMAJORZ
+CODE_SMELL
+a
+java:S1874Ë"/Remove this use of "Integer"; it is deprecated.(Ê±³ÌûÿÿÿÿH‹#RMINORZ
+CODE_SMELL
+j	java:S106å"9Replace this use of System.out or System.err by a logger.(ËÉÙ€şÿÿÿÿHŒ#RMAJORZ
+CODE_SMELL
+d	java:S106ç"9Replace this use of System.out or System.err by a logger.(éÅH#RMAJORZ
+CODE_SMELL
+«
+java:S1158é"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(öÈ­âH#RMINORZ
+CODE_SMELL
+N
+java:S2129é"!Remove this "Integer" constructor(öÈ­âH#RMAJORZ
+CODE_SMELL
+\
+java:S1874é"/Remove this use of "Integer"; it is deprecated.(öÈ­âH#RMINORZ
+CODE_SMELL
+m	java:S125÷"<This block of commented-out lines of code should be removed.(İÙ“‡şÿÿÿÿH‘#RMAJORZ
+CODE_SMELL
+j	java:S106”"9Replace this use of System.out or System.err by a logger.(¯Ä¿ëùÿÿÿÿH#RMAJORZ
+CODE_SMELL
+e	java:S106œ"9Replace this use of System.out or System.err by a logger.(óÔ¿ïH#RMAJORZ
+CODE_SMELL
+°
+java:S1158Ÿ"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Ê±³ÌûÿÿÿÿHŸ#RMINORZ
+CODE_SMELL
+S
+java:S2129Ÿ"!Remove this "Integer" constructor(Ê±³ÌûÿÿÿÿH #RMAJORZ
+CODE_SMELL
+a
+java:S1874Ÿ"/Remove this use of "Integer"; it is deprecated.(Ê±³ÌûÿÿÿÿH¡#RMINORZ
+CODE_SMELL
+j	java:S106§"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿH¢#RMAJORZ
+CODE_SMELL
+e	java:S106¿"9Replace this use of System.out or System.err by a logger.(­¦ÃõH£#RMAJORZ
+CODE_SMELL
+«
+java:S1158Â"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(öÈ­âH¤#RMINORZ
+CODE_SMELL
+N
+java:S2129Â"!Remove this "Integer" constructor(öÈ­âH¥#RMAJORZ
+CODE_SMELL
+\
+java:S1874Â"/Remove this use of "Integer"; it is deprecated.(öÈ­âH¦#RMINORZ
+CODE_SMELL
+e	java:S106Ù"9Replace this use of System.out or System.err by a logger.(±¢“çH§#RMAJORZ
+CODE_SMELL
+e	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ÅƒñæH¨#RMAJORZ
+CODE_SMELL
+h	java:S125“"<This block of commented-out lines of code should be removed.(Ê‚‹«H©#RMAJORZ
+CODE_SMELL
+h	java:S125§"<This block of commented-out lines of code should be removed.(ç½áƒH±#RMAJORZ
+CODE_SMELL
+j	java:S106º"9Replace this use of System.out or System.err by a logger.(¨ºİ’şÿÿÿÿH¹#RMAJORZ
+CODE_SMELL
+d	java:S106¼"9Replace this use of System.out or System.err by a logger.(Îê¢=Hº#RMAJORZ
+CODE_SMELL
+e	java:S106ê"9Replace this use of System.out or System.err by a logger.(âëìÊH»#RMAJORZ
+CODE_SMELL
+[
+java:S1481æ")Remove this unused "size" local variable.(²§“ÊÿÿÿÿÿH¼#RMINORZ
+CODE_SMELL

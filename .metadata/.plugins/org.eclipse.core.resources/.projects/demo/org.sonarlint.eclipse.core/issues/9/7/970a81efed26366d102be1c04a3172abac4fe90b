@@ -1,0 +1,10 @@
+
+‘
+java:S4165$"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿH³!RMAJORZ
+CODE_SMELL
+\
+java:S1905%"0Remove this unnecessary cast to "ComparableSet".(ÁªØH´!RMINORZ
+CODE_SMELL
+\
+java:S1905&"0Remove this unnecessary cast to "ComparableSet".(ô‚­âHµ!RMINORZ
+CODE_SMELL

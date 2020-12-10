@@ -1,0 +1,13 @@
+
+`
+java:S3740>"/Provide the parametrized type for this generic.(øöçÆøÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+`
+java:S3740K"/Provide the parametrized type for this generic.(êÒÿÿÿÿÿH£RMAJORZ
+CODE_SMELL
+
+java:S1130>"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(øöçÆøÿÿÿÿH¤RMINORZ
+CODE_SMELL
+
+java:S1130K"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(êÒÿÿÿÿÿH¥RMINORZ
+CODE_SMELL

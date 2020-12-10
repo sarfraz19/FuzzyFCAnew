@@ -1,0 +1,27 @@
+package com.example.demo.service;
+
+import com.example.demo.model.ObjectAttributeArray;
+import com.example.demo.model.ObjectAttributeSingleSet;
+
+public class FormalConceptAnalysis {
+
+	public void fca(ObjectAttributeArray vals) {
+		
+		ObjectAttributeArray objectAttributeArray = new ObjectAttributeArray();
+		
+		int arraySize = vals.getObjectAttributeSingleSet().size();
+		
+		objectAttributeArray.getObjectAttributeSingleSet().add(vals.getObjectAttributeSingleSet().get(0));
+		
+		for (int i=0; i < arraySize; i++) {
+			for (int j=i+1; j < arraySize; j++) {
+				if (vals.getObjectAttributeSingleSet().get(i).getAttribute().size() > vals.getObjectAttributeSingleSet().get(j).getAttribute().size()) 
+                {
+                    int temp = a[i];
+                    a[i] = a[j];
+                    a[j] = temp;
+                }
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+
+`
+java:S3740("/Provide the parametrized type for this generic.(©ö»¿øÿÿÿÿHº!RMAJORZ
+CODE_SMELL
+`
+java:S37404"/Provide the parametrized type for this generic.(ß˜±˜ıÿÿÿÿH»!RMAJORZ
+CODE_SMELL
+Z
+java:S3740@"/Provide the parametrized type for this generic.(Á”ñFH¼!RMAJORZ
+CODE_SMELL
+`
+java:S3740L"/Provide the parametrized type for this generic.(âÂÒ‹ıÿÿÿÿH½!RMAJORZ
+CODE_SMELL
+
+java:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿH¾!RMAJORZ
+CODE_SMELL
+€
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(³ÛÆ
+H¿!RCRITICALZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÉ!RCRITICALZ
+CODE_SMELL

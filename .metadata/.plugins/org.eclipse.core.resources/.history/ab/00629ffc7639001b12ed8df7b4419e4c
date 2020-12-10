@@ -1,0 +1,17 @@
+package com.example.demo.service;
+
+import com.example.demo.model.ObjectAttributeArray;
+import com.example.demo.model.ObjectAttributeSingleSet;
+
+public class FormalConceptAnalysis {
+
+	public void fca(ObjectAttributeArray vals) {
+		
+		ObjectAttributeArray objectAttributeArray = new ObjectAttributeArray();
+		
+		int arraySize = vals.getObjectAttributeSingleSet().size();
+		for (ObjectAttributeSingleSet objSet : vals.getObjectAttributeSingleSet()) {
+			
+		}
+	}
+}

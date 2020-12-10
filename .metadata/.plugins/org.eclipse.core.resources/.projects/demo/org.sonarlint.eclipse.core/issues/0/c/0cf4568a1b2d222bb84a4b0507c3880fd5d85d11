@@ -1,0 +1,71 @@
+
+	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŒ³ƒøÿÿÿÿHµRMINORZ
+CODE_SMELL
+‚	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŒ³ƒøÿÿÿÿH¶RMINORZ
+CODE_SMELL
+–
+java:S1149:"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºŒ³ƒøÿÿÿÿH·RMAJORZ
+CODE_SMELL
+—
+java:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºŒ³ƒøÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+q
+java:S2147g"ECombine this catch with the one at line 100, which has the same body.(‹±ÃÆH¹RMINORZ
+CODE_SMELL
+i
+java:S24798":Remove the non-escaped \u0009 character from this literal.(è³ÂßH»RCRITICALZ
+CODE_SMELL
+Š
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºŒ³ƒøÿÿÿÿH¼RMINORZ
+CODE_SMELL
+|
+java:S5361H"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Æ°ÀøÿÿÿÿH½RCRITICALZ
+CODE_SMELL
+|
+java:S5361H"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Æ°ÀøÿÿÿÿH¾RCRITICALZ
+CODE_SMELL
+|
+java:S5361H"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Æ°ÀøÿÿÿÿH¿RCRITICALZ
+CODE_SMELL
+b
+java:S1135e"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÀRINFOZ
+CODE_SMELL
+b
+java:S1135h"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÁRINFOZ
+CODE_SMELL
+d
+java:S1197n"8Move the array designator from the variable to the type.(‡¬ª¥HÂRMINORZ
+CODE_SMELL
+d
+java:S1197n"8Move the array designator from the variable to the type.(‡¬ª¥HÃRMINORZ
+CODE_SMELL
+‚
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(£İü°HÄRCRITICALZ
+CODE_SMELL
+[
+java:S2440Š")Remove this instantiation of "QuickSort".(„ÀéçşÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+r
+java:S2147İ"ECombine this catch with the one at line 218, which has the same body.(‹±ÃÆHÒRMINORZ
+CODE_SMELL
+‹
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºŒ³ƒøÿÿÿÿHÔRMINORZ
+CODE_SMELL
+h	java:S125«"<This block of commented-out lines of code should be removed.(‚Äû¢HÕRMAJORZ
+CODE_SMELL
+b
+java:S2209Æ"5Change this instance-reference to a static reference.(„İÁ°HÖRMAJORZ
+CODE_SMELL
+m	java:S125Ï"<This block of commented-out lines of code should be removed.(­ì¸İúÿÿÿÿH×RMAJORZ
+CODE_SMELL
+m	java:S125Õ"<This block of commented-out lines of code should be removed.(óàÚåüÿÿÿÿHØRMAJORZ
+CODE_SMELL
+c
+java:S1135Û"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÙRINFOZ
+CODE_SMELL
+c
+java:S1135Ş"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÚRINFOZ
+CODE_SMELL
+^
+java:S1144n"2Remove this unused private "isArrayEquals" method.(‡¬ª¥HÛRMAJORZ
+CODE_SMELL

@@ -1,0 +1,58 @@
+
+a
+java:S3740­"/Provide the parametrized type for this generic.(ÂÍËâúÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+a
+java:S3740½"/Provide the parametrized type for this generic.(†şë¼ùÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+™
+java:S1130­"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(ÂÍËâúÿÿÿÿHÖRMINORZ
+CODE_SMELL
+¤
+java:S1130½"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(†şë¼ùÿÿÿÿHØRMINORZ
+CODE_SMELL
+[
+java:S3740K"/Provide the parametrized type for this generic.(íâ´åHÈRMAJORZ
+CODE_SMELL
+\
+java:S3740"/Provide the parametrized type for this generic.(Á¥ÒïHÍRMAJORZ
+CODE_SMELL
+š
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Á¥ÒïHÔRMINORZ
+CODE_SMELL
+a
+java:S3740¿"/Provide the parametrized type for this generic.(ÑÉÿıÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+š
+java:S1130”"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸Õ¥ŸHÕRMINORZ
+CODE_SMELL
+`
+java:S3740p"/Provide the parametrized type for this generic.(¯òËáúÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+[
+java:S3740f"/Provide the parametrized type for this generic.(ªõíèHËRMAJORZ
+CODE_SMELL
+¤
+java:S1130¿"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(ÑÉÿıÿÿÿÿHÙRMINORZ
+CODE_SMELL
+a
+java:S3740½"/Provide the parametrized type for this generic.(†şë¼ùÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+¤
+java:S1130­"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(ÂÍËâúÿÿÿÿH×RMINORZ
+CODE_SMELL
+[
+java:S3740K"/Provide the parametrized type for this generic.(íâ´åHÇRMAJORZ
+CODE_SMELL
+[
+java:S3740["/Provide the parametrized type for this generic.(ÈşÉ¸HÉRMAJORZ
+CODE_SMELL
+[
+java:S3740["/Provide the parametrized type for this generic.(ÈşÉ¸HÊRMAJORZ
+CODE_SMELL
+\
+java:S3740”"/Provide the parametrized type for this generic.(¸Õ¥ŸHÎRMAJORZ
+CODE_SMELL
+a
+java:S3740­"/Provide the parametrized type for this generic.(ÂÍËâúÿÿÿÿHÏRMAJORZ
+CODE_SMELL

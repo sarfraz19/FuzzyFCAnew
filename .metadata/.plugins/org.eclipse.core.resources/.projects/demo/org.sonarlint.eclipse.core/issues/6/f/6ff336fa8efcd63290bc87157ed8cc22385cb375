@@ -1,0 +1,166 @@
+
+}
+java:S1192â"HDefine a constant instead of duplicating this literal "Error: " 3 times.(´Ô€œùÿÿÿÿHõ!RCRITICALZ
+CODE_SMELL
+g	java:S110""<This class has 6 parents which is greater than 5 authorized.(¯Ã¼¢Hù!RMAJORZ
+CODE_SMELL
+N
+java:S1643‡"Use a StringBuilder instead.(ËËÚéûÿÿÿÿHú!RMINORZ
+CODE_SMELL
+I
+java:S1643‰"Use a StringBuilder instead.(É¢ÏüHû!RMINORZ
+CODE_SMELL
+I
+java:S1643Š"Use a StringBuilder instead.(Á¥ÑÆHü!RMINORZ
+CODE_SMELL
+
+java:S1450_"\Remove the "isOrderedFlag" field and declare it as a local variable in the relevant methods.(¨Á‹…úÿÿÿÿHý!RMINORZ
+CODE_SMELL
+‡
+java:S1450c"[Remove the "isPrunedFlag" field and declare it as a local variable in the relevant methods.(ª­ŸÑHþ!RMINORZ
+CODE_SMELL
+Y
+java:S1948h"+Make "fileInput" transient or serializable.(ŠýuHÿ!RCRITICALZ
+CODE_SMELL
+m	java:S125§"<This block of commented-out lines of code should be removed.(íú÷›úÿÿÿÿH€"RMAJORZ
+CODE_SMELL
+e	java:S106«"9Replace this use of System.out or System.err by a logger.(‹ß­ŽH"RMAJORZ
+CODE_SMELL
+z	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÀ—‰H‚"RMINORZ
+CODE_SMELL
+j	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Ôäÿ»þÿÿÿÿHƒ"RMAJORZ
+CODE_SMELL
+e	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ùš¼H„"RMAJORZ
+CODE_SMELL
+j	java:S106â"9Replace this use of System.out or System.err by a logger.(¡ˆò£ÿÿÿÿÿH…"RMAJORZ
+CODE_SMELL
+e	java:S106ø"9Replace this use of System.out or System.err by a logger.(Ê‹Â«H†"RMAJORZ
+CODE_SMELL
+j	java:S106ú"9Replace this use of System.out or System.err by a logger.(•‚èùÿÿÿÿH‡"RMAJORZ
+CODE_SMELL
+j	java:S106ü"9Replace this use of System.out or System.err by a logger.(éË€ÿÿÿÿÿHˆ"RMAJORZ
+CODE_SMELL
+e	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(â¯ÕH‰"RMAJORZ
+CODE_SMELL
+j	java:S106œ"9Replace this use of System.out or System.err by a logger.(×Î»†ûÿÿÿÿHŠ"RMAJORZ
+CODE_SMELL
+j	java:S106ž"9Replace this use of System.out or System.err by a logger.(ÖìŽ™øÿÿÿÿH‹"RMAJORZ
+CODE_SMELL
+e	java:S106 "9Replace this use of System.out or System.err by a logger.(â¯ÕHŒ"RMAJORZ
+CODE_SMELL
+j	java:S106¢"9Replace this use of System.out or System.err by a logger.(¨‚ßµÿÿÿÿÿH"RMAJORZ
+CODE_SMELL
+e	java:S106û"9Replace this use of System.out or System.err by a logger.(õÎè™HŽ"RMAJORZ
+CODE_SMELL
+‹
+java:S3012‰"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‹ŒóíøÿÿÿÿH"RMINORZ
+CODE_SMELL
+m
+java:S2130•";Use "Short.parseShort" for this string-to-short conversion.(Œùõ­úÿÿÿÿH"RMINORZ
+CODE_SMELL
+_
+java:S1874•"-Remove this use of "Short"; it is deprecated.(Œùõ­úÿÿÿÿH‘"RMINORZ
+CODE_SMELL
+h	java:S125ß"<This block of commented-out lines of code should be removed.(ÇÆ•ƒH’"RMAJORZ
+CODE_SMELL
+X
+java:S1659™"&Declare "quantity" on a separate line.(Ñé÷›øÿÿÿÿH“"RMINORZ
+CODE_SMELL
+V
+java:S1125°")Remove the literal "false" boolean value.(ãÎãH”"RMINORZ
+CODE_SMELL
+X
+java:S1659Ã"&Declare "quantity" on a separate line.(Ñé÷›øÿÿÿÿH•"RMINORZ
+CODE_SMELL
+V
+java:S1125Ú")Remove the literal "false" boolean value.(ãÎãH–"RMINORZ
+CODE_SMELL
+h	java:S125ö"<This block of commented-out lines of code should be removed.(††ƒ£H—"RMAJORZ
+CODE_SMELL
+j	java:S106í"9Replace this use of System.out or System.err by a logger.(«ºÑŸýÿÿÿÿH˜"RMAJORZ
+CODE_SMELL
+‹
+java:S3012ò"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(›ÀÍñÿÿÿÿÿH™"RMINORZ
+CODE_SMELL
+‹
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ýÙÁûÿÿÿÿHš"RMINORZ
+CODE_SMELL
+†
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(†•›‰H›"RMINORZ
+CODE_SMELL
+V
+java:S1125™	")Remove the literal "false" boolean value.(ãÎãHœ"RMINORZ
+CODE_SMELL
+W
+java:S1659‘
+"%Declare "numComb" on a separate line.(„¥Ã¨ÿÿÿÿÿH"RMINORZ
+CODE_SMELL
+…
+java:S3012³
+"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÆÀ—Hž"RMINORZ
+CODE_SMELL
+j	java:S106×
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHŸ"RMAJORZ
+CODE_SMELL
+j	java:S106Ø
+"9Replace this use of System.out or System.err by a logger.(‹éè÷ýÿÿÿÿH "RMAJORZ
+CODE_SMELL
+j	java:S106Ù
+"9Replace this use of System.out or System.err by a logger.(Ÿ½ÓûÿÿÿÿH¡"RMAJORZ
+CODE_SMELL
+d	java:S106Ú
+"9Replace this use of System.out or System.err by a logger.(åÿüYH¢"RMAJORZ
+CODE_SMELL
+j	java:S106Û
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH£"RMAJORZ
+CODE_SMELL
+d	java:S106è
+"9Replace this use of System.out or System.err by a logger.(ÖÃäH¤"RMAJORZ
+CODE_SMELL
+e	java:S106é
+"9Replace this use of System.out or System.err by a logger.(«“ŒÌH¥"RMAJORZ
+CODE_SMELL
+d	java:S106ê
+"9Replace this use of System.out or System.err by a logger.(èòú8H¦"RMAJORZ
+CODE_SMELL
+j	java:S106ë
+"9Replace this use of System.out or System.err by a logger.(™º¯íúÿÿÿÿH§"RMAJORZ
+CODE_SMELL
+j	java:S106ì
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH¨"RMAJORZ
+CODE_SMELL
+f
+java:S1854‚"9Remove this useless assignment to local variable "value".(Á±”®H©"RMAJORZ
+CODE_SMELL
+™
+java:S1130ú
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(€ÑçøHª"RMINORZ
+CODE_SMELL
+M
+java:S2129‚" Remove this "String" constructor(Á±”®H«"RMAJORZ
+CODE_SMELL
+e	java:S106¢"9Replace this use of System.out or System.err by a logger.(”‰ñ„H¬"RMAJORZ
+CODE_SMELL
+j	java:S106¨"9Replace this use of System.out or System.err by a logger.(µŸÞ…þÿÿÿÿH­"RMAJORZ
+CODE_SMELL
+e	java:S106ª"9Replace this use of System.out or System.err by a logger.(×•œ²H®"RMAJORZ
+CODE_SMELL
+e	java:S106«"9Replace this use of System.out or System.err by a logger.(½ž¡¡H¯"RMAJORZ
+CODE_SMELL
+j	java:S106­"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿH°"RMAJORZ
+CODE_SMELL
+j	java:S106Ä"9Replace this use of System.out or System.err by a logger.(è¡ûøýÿÿÿÿH±"RMAJORZ
+CODE_SMELL
+^
+java:S1481‘
+",Remove this unused "counter" local variable.(„¥Ã¨ÿÿÿÿÿH²"RMINORZ
+CODE_SMELL
+\
+java:S1068]"0Remove this unused "haveDataFlag" private field.(ž™öH³"RMAJORZ
+CODE_SMELL
+b
+java:S1068_"1Remove this unused "isOrderedFlag" private field.(¨Á‹…úÿÿÿÿH´"RMAJORZ
+CODE_SMELL
+\
+java:S1068c"0Remove this unused "isPrunedFlag" private field.(ª­ŸÑHµ"RMAJORZ
+CODE_SMELL

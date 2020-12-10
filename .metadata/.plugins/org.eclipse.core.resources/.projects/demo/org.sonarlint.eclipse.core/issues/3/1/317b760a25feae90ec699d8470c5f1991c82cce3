@@ -1,0 +1,122 @@
+
+`
+java:S37403"/Provide the parametrized type for this generic.(Ÿ´«ÌÿÿÿÿÿHáRMAJORZ
+CODE_SMELL
+k
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(¼«é HõRMINORZ
+CODE_SMELL
+{
+java:S1192u"GDefine a constant instead of duplicating this literal "object" 3 times.(©“óšşÿÿÿÿHïRCRITICALZ
+CODE_SMELL
+Œ
+java:S1450("`Remove the "currentMembership" field and declare it as a local variable in the relevant methods.(Êş¼HöRMINORZ
+CODE_SMELL
+g	java:S125y"<This block of commented-out lines of code should be removed.(³Á‹ñHƒ RMAJORZ
+CODE_SMELL
+†
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Ó¢ÿH• RMINORZ
+CODE_SMELL
+`
+java:S3740-"/Provide the parametrized type for this generic.(éÏÅÈÿÿÿÿÿHİRMAJORZ
+CODE_SMELL
+Š
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¬ÆÖÿÿÿÿÿHùRMINORZ
+CODE_SMELL
+m	java:S125´"<This block of commented-out lines of code should be removed.(™Ù¿÷ÿÿÿÿÿHš RMAJORZ
+CODE_SMELL
+\
+java:S3740”"/Provide the parametrized type for this generic.(€­ñHèRMAJORZ
+CODE_SMELL
+i
+java:S1874Y"8Remove this use of "XMLReaderFactory"; it is deprecated.(ìéŒúÿÿÿÿHıRMINORZ
+CODE_SMELL
+‡
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(å×ëúÿÿÿÿH† RCRITICALZ
+CODE_SMELL
+`
+java:S3740:"/Provide the parametrized type for this generic.(Ñ¬ÆÖÿÿÿÿÿHäRMAJORZ
+CODE_SMELL
+k
+java:S1161o":Add the "@Override" annotation above this method signature(êš»ÏıÿÿÿÿH‚ RMAJORZ
+CODE_SMELL
+[
+java:S37400"/Provide the parametrized type for this generic.(ÌÚÕHàRMAJORZ
+CODE_SMELL
+`
+java:S37403"/Provide the parametrized type for this generic.(Ÿ´«ÌÿÿÿÿÿHâRMAJORZ
+CODE_SMELL
+`
+java:S3740:"/Provide the parametrized type for this generic.(Ñ¬ÆÖÿÿÿÿÿHãRMAJORZ
+CODE_SMELL
+Š
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆñÙğøÿÿÿÿHúRMINORZ
+CODE_SMELL
+`
+java:S3740-"/Provide the parametrized type for this generic.(éÏÅÈÿÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+h
+java:S1117L"<Rename "relation" which hides the field declared at line 41.(õÿßòHüRMAJORZ
+CODE_SMELL
+\
+java:S1066§"/Merge this if statement with the enclosing one.(¼«é HóRMAJORZ
+CODE_SMELL
+`
+java:S3740,"/Provide the parametrized type for this generic.(¼„úÌşÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+[
+java:S37400"/Provide the parametrized type for this generic.(ÌÚÕHßRMAJORZ
+CODE_SMELL
+`
+java:S3740,"/Provide the parametrized type for this generic.(¼„úÌşÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+b
+java:S1135i"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH RINFOZ
+CODE_SMELL
+e	java:S106µ"9Replace this use of System.out or System.err by a logger.(ØÇôH™ RMAJORZ
+CODE_SMELL
+`
+java:S3740;"/Provide the parametrized type for this generic.(ˆñÙğøÿÿÿÿHåRMAJORZ
+CODE_SMELL
+h	java:S125"<This block of commented-out lines of code should be removed.(³Á‹ñH„ RMAJORZ
+CODE_SMELL
+i	java:S106c"9Replace this use of System.out or System.err by a logger.(›¨ñşÿÿÿÿH€ RMAJORZ
+CODE_SMELL
+\
+java:S3740’"/Provide the parametrized type for this generic.(Šæ†ØHçRMAJORZ
+CODE_SMELL
+^
+java:S2093^"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHşRCRITICALZ
+CODE_SMELL
+e	java:S106©"9Replace this use of System.out or System.err by a logger.(œû±ğH— RMAJORZ
+CODE_SMELL
+a
+java:S3740˜"/Provide the parametrized type for this generic.(º÷¹àúÿÿÿÿHéRMAJORZ
+CODE_SMELL
+i
+java:S2755Y"3Disable access to external entities in XML parsing.(ìéŒúÿÿÿÿHÚRBLOCKERZVULNERABILITY
+{
+java:S1192„"KDefine a constant instead of duplicating this literal "membership" 3 times.(àˆÔHëRCRITICALZ
+CODE_SMELL
+\
+java:S3740š"/Provide the parametrized type for this generic.(¨Ó¢ÿHêRMAJORZ
+CODE_SMELL
+†
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(€­ñH” RMINORZ
+CODE_SMELL
+`
+java:S3740;"/Provide the parametrized type for this generic.(ˆñÙğøÿÿÿÿHæRMAJORZ
+CODE_SMELL
+ˆ	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏÂßêH÷RCRITICALZ
+CODE_SMELL
+h	java:S125¨"<This block of commented-out lines of code should be removed.(çÿ¬ıH˜ RMAJORZ
+CODE_SMELL
+‡	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ”·eHøRCRITICALZ
+CODE_SMELL
+m	java:S125¡"<This block of commented-out lines of code should be removed.(™èóîüÿÿÿÿH– RMAJORZ
+CODE_SMELL
+l
+java:S1161‹":Add the "@Override" annotation above this method signature(å×ëúÿÿÿÿH… RMAJORZ
+CODE_SMELL
+b
+java:S1135?"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHûRINFOZ
+CODE_SMELL

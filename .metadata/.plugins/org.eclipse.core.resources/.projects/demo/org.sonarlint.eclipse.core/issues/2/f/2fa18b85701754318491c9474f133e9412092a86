@@ -1,0 +1,13 @@
+
+d
+java:S1444$"3Make this "public static numberOfNodes" field final(È‡ã²ùÿÿÿÿH½#RMINORZ
+CODE_SMELL
+„
+java:S1104"SMake support a static final constant or non-public and provide accessors if needed.(¶•ÖÿÿÿÿÿH¾#RMINORZ
+CODE_SMELL
+…
+java:S1104 "TMake childRef a static final constant or non-public and provide accessors if needed.(¾ÒÍËşÿÿÿÿH¿#RMINORZ
+CODE_SMELL
+Š
+java:S1104$"YMake numberOfNodes a static final constant or non-public and provide accessors if needed.(È‡ã²ùÿÿÿÿHÀ#RMINORZ
+CODE_SMELL
